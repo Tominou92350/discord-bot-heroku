@@ -3,6 +3,6 @@
     "discord.js": "^13.5.0"
   },
   "scripts": {
-    "start": "index.js"
+    "start": "node index.js"
   }
 }
